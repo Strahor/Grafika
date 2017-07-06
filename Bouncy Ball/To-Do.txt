@@ -1,0 +1,2 @@
+* Napraviti nivoe
+* Poboljsati promenu ugla prilikom odbijanja od plocice
